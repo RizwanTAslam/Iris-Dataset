@@ -21,5 +21,5 @@ The objective of this project is to predict the species given the four features 
 
 ## Load Dataset
 
-name = ['sepal-length','sepal-width','petal-length','petal-width','class']
-dataset = read_csv('Iris.csv', header=0, names=name)
+    name = ['sepal-length','sepal-width','petal-length','petal-width','class']
+    dataset = read_csv('Iris.csv', header=0, names=name)
