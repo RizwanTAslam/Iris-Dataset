@@ -29,3 +29,4 @@ The objective of this project is to predict the species given the four features 
 ### Histogram of each attributes
 
 
+![Histogram_attributes](https://user-images.githubusercontent.com/46325271/141672065-3a2b8ff7-6d59-4b80-baea-d71e903d1ad1.png)
