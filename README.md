@@ -115,19 +115,19 @@ The accuracy of the SVM is:  0.9555555555555556
     print(confusion_matrix(Y_validation, prediction))
     print(classification_report(Y_validation, prediction))
 
-0.9555555555555556
-[[17  0  0]
- [ 0 15  1]
- [ 0  1 11]]
-                 precision    recall  f1-score   support
+    0.9555555555555556
+    [[17  0  0]
+    [ 0 15  1]
+    [ 0  1 11]]
+                  precision    recall  f1-score   support
 
-    Iris-setosa       1.00      1.00      1.00        17
-Iris-versicolor       0.94      0.94      0.94        16
- Iris-virginica       0.92      0.92      0.92        12
+     Iris-setosa       1.00      1.00      1.00        17
+ Iris-versicolor       0.94      0.94      0.94        16
+  Iris-virginica       0.92      0.92      0.92        12
 
-       accuracy                           0.96        45
-      macro avg       0.95      0.95      0.95        45
-   weighted avg       0.96      0.96      0.96        45
+        accuracy                           0.96        45
+       macro avg       0.95      0.95      0.95        45
+    weighted avg       0.96      0.96      0.96        45
 
 
 
