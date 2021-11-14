@@ -23,3 +23,9 @@ The objective of this project is to predict the species given the four features 
 
     name = ['sepal-length','sepal-width','petal-length','petal-width','class']
     dataset = read_csv('Iris.csv', header=0, names=name)
+    
+## Visualizing the Dataset
+
+### Histogram of each attributes
+
+
